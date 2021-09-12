@@ -1,0 +1,8 @@
+# Ignore all files 
+*
+
+# ... except for this one.
+!.gitignore
+
+# meta
+README.md
