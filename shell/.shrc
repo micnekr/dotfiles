@@ -1,0 +1,8 @@
+export PATH=$HOME/bin:/usr/local/bin:$HOME/.emacs.d/bin:$HOME/Documents/code/sh:$PATH
+
+###### ALIASES ######
+# no ignore (because of the .gitignore in the home dir)
+alias fd="fd -I"
+alias cf="cfiles"
+
+export GPG_TTY=$(tty)
